@@ -1,0 +1,16 @@
+name,v_nom,x,y,control,generator
+1,500,,,Slack,Coal
+2,500,,,Slack,Gas
+3,508,,,Slack,Coal
+4,505,,,Slack,Gas
+5,514,,,Slack,Coal
+6,501,,,Slack,Coal
+7,513,,,Slack,Gas
+8,514,,,Slack,Gas
+9,505,,,Slack,Gas
+10,518,,,Slack,Coal
+11,524,,,Slack,Coal
+12,508,,,Slack,Gas
+13,505,,,Slack,Gas
+14,489,,,Slack,Coal
+15,500,,,Slack,Coal

@@ -1,0 +1,15 @@
+name,p_nom_max,weight,p_nom,capital_cost,p_nom_extendable,carrier,marginal_cost,bus,efficiency,control,p_nom_opt,min_up_time,min_down_time,up_time_before,down_time_before
+1,,0,562,,FALSE,Heat,,1,0.9,Slack,,0,0,1,0
+2,,0,366.8,,FALSE,Natural gas,,2,0.9,Slack,,0,0,1,0
+3,,0,1597.2,,FALSE,Heat,,3,0.9,Slack,,0,0,1,0
+4,,0,1070.1,,FALSE,Natural gas,,4,0.9,Slack,,0,0,1,0
+5,,0,2458.2,,FALSE,Heat,,5,0.9,Slack,,0,0,1,0
+6,,0,283,,FALSE,Heat,,6,0.9,Slack,,0,0,1,0
+7,,0,113,,FALSE,Natural gas,,7,0.9,Slack,,0,0,1,0
+8,,0,1330,,FALSE,Natural gas,,8,0.9,Slack,,0,0,1,0
+9,,0,8414.5,,FALSE,Natural gas,,9,0.9,Slack,,0,0,1,0
+10,,0,351.2,,FALSE,Heat,,10,0.9,Slack,,0,0,1,0
+11,,0,2104,,FALSE,Heat,,11,0.9,Slack,,0,0,1,0
+12,,0,307,,FALSE,Natural gas,,12,0.9,Slack,,0,0,1,0
+13,,0,257.4,,FALSE,Natural gas,,13,0.9,Slack,,0,0,1,0
+14,,0,1301.1,,FALSE,Heat,,14,0.9,Slack,,0,0,1,0
